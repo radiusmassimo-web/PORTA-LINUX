@@ -115,16 +115,6 @@ Contributions are welcome! Please feel free to:
 - Submit pull requests with enhancements
 - Improve documentation
 
-## Support & Community
-
-- **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/radiusmassimo-web/PORTA-LINUX/issues)
-- **Discussions**: Join discussions on [GitHub Discussions](https://github.com/radiusmassimo-web/PORTA-LINUX/discussions)
-- **Documentation**: Check the `/docs` folder for comprehensive guides
-
----
-
-## Changelog
-
 ### Version 1.0 (Initial Release - 2026-07-21)
 - ✅ Complete documentation
 - ✅ Installation guide
