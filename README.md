@@ -115,14 +115,6 @@ Contributions are welcome! Please feel free to:
 - Submit pull requests with enhancements
 - Improve documentation
 
----
-
-## License
-
-This project is released under the [MIT License](LICENSE).
-
----
-
 ## Support & Community
 
 - **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/radiusmassimo-web/PORTA-LINUX/issues)
