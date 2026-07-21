@@ -115,8 +115,6 @@ Contributions are welcome! Please feel free to:
 - Submit pull requests with enhancements
 - Improve documentation
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 ## License
