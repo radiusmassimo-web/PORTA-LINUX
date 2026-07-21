@@ -85,7 +85,7 @@ After installation, ensure GRUB boots from the external SSD by modifying the boo
 
 ### Daily Operations
 
-- **Web Browsing**: Use Firefox for standard browsing; FreeWolf for privacy-critical activities
+- **Web Browsing**: Use Firefox for standard browsing; LiberWolf for privacy-critical activities
 - **Torrent Downloads**: Use qBittorrent (GUI) or Transmission (lightweight alternative)
 - **AppImages**: Place AppImage files in the designated AppImage folder; AppImageLauncher will handle integration
 - **VPN Connection**: Enable WireGuard or ProtonVPN for encrypted network traffic
