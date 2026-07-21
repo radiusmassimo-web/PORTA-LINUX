@@ -1,3 +1,5 @@
+By RadiusMassimo:
+
 # PORTA-LINUX
 PORTA-LINUX: Sistema Operativo Linux Portatile su SSD Esterno
 PORTA-LINUX: Sistema Operativo Linux Portatile
@@ -9,9 +11,8 @@ funzionalità avanzate come doppio browser, supporto AppImage, integrazione VPN 
 torrent
 
 
+By RadiusMassimo:
 
-and
-By RadiusMassimo 02/11/2025
 PORTA-LINUX: Portable Linux Operating System on
 External SSD
 This document describes the projectPORTA-LINUX, a full-featured, portable Linux operating
