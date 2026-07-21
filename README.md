@@ -99,7 +99,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 |------------|---------|-------------|
 | External SSD Capacity | 60GB | 128GB+ |
 | RAM | 4GB | 8GB+ |
-| Processor | Intel i5 / AMD Ryzen 5 | i7 / Ryzen 7 |
+| Processor | Intel / AMD /
 | USB Adapter | USB 2.0 | USB 3.0 with UASP |
 | Internet Speed | 1Mbps | 10Mbps+ |
 
