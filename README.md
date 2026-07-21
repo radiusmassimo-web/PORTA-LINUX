@@ -35,7 +35,7 @@ The system uses a standard Linux distribution with manual GRUB bootloader config
 
 #### Web Browsers
 - **Firefox**: Primary browser for everyday use and standard web services
-- **LiberWolf**: Secondary browser with built-in VPN for anonymous browsing and accessing geo-restricted content
+- **LibreWolf**: Secondary browser with built-in VPN for anonymous browsing and accessing geo-restricted content
 
 #### Torrent Management
 - **qBittorrent** or **Transmission**: Full-featured torrent client with magnet link support
